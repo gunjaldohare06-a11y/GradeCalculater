@@ -129,7 +129,7 @@ Through this project, I learned:
 
 💻 Python Developer | Web Development Enthusiast
 
-🔗 GitHub: https://github.com/YOUR-GITHUB-USERNAME
+🔗 GitHub: https://github.com/YOUR-GITHUBUSERNAME
 
 ---
 
